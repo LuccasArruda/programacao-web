@@ -1,0 +1,23 @@
+
+.campoPesquisa{
+    outline: none;
+    border-radius: 30px;
+    border: none;
+}
+
+.barraPesquisa{
+    background-color: #f71e1e;
+    opacity: .80;
+    color: #FFF;
+}
+
+.alturaCarrossel{
+    max-height: 450px;
+    min-height: 200px;
+    width: 100%;
+}
+
+.iconeSite{
+    max-height: 30px;
+    min-height: 10px;
+}
