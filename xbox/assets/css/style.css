@@ -120,6 +120,10 @@ button:hover{
     right: 20px;
 }
 
+#menu-hamburger{
+    display: none;
+}
+
 .letras-pequenas{
     font-size: small;
 }
