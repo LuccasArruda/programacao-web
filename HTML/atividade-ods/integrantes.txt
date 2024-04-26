@@ -1,0 +1,702 @@
+C:\Users\lucca\.jdks\openjdk-21.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.4\lib\idea_rt.jar=62544:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.4\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\lucca\OneDrive\Documentos\FHO\Programação Orientada a Objetos\counter-strike\src\out\production\counter-strike" Main
+Eliminatórias
+
+Informações do Campeonato: 
+
+Informações da Partida:
+Contra-Terroristas: Furia
+Terroristas: Imperial
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Informações da Partida:
+Contra-Terroristas: Gerino
+Terroristas: Laner
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Informações da Partida:
+Contra-Terroristas: Tylano
+Terroristas: Buenas
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Informações da Partida:
+Contra-Terroristas: Polinor
+Terroristas: Trenal
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Informações da Partida:
+Contra-Terroristas: Garen
+Terroristas: Bulper
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Informações da Partida:
+Contra-Terroristas: Mach
+Terroristas: Nambor
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Informações da Partida:
+Contra-Terroristas: Chars
+Terroristas: Xenao
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Informações da Partida:
+Contra-Terroristas: Zelper
+Terroristas: Carix
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Furia
+Terroristas: Imperial
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Imperial
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Gerino
+Terroristas: Laner
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Laner
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Tylano
+Terroristas: Buenas
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Buenas
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Polinor
+Terroristas: Trenal
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Trenal
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Garen
+Terroristas: Bulper
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Bulper
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Mach
+Terroristas: Nambor
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Nambor
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Chars
+Terroristas: Xenao
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Xenao
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Zelper
+Terroristas: Carix
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Carix
+Fase atual: 1
+
+Informações do Campeonato: 
+
+Informações da Partida:
+Contra-Terroristas: Furia
+Terroristas: Imperial
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Imperial
+
+Informações da Partida:
+Contra-Terroristas: Gerino
+Terroristas: Laner
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Laner
+
+Informações da Partida:
+Contra-Terroristas: Tylano
+Terroristas: Buenas
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Buenas
+
+Informações da Partida:
+Contra-Terroristas: Polinor
+Terroristas: Trenal
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Trenal
+
+Informações da Partida:
+Contra-Terroristas: Garen
+Terroristas: Bulper
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Bulper
+
+Informações da Partida:
+Contra-Terroristas: Mach
+Terroristas: Nambor
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Nambor
+
+Informações da Partida:
+Contra-Terroristas: Chars
+Terroristas: Xenao
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Xenao
+
+Informações da Partida:
+Contra-Terroristas: Zelper
+Terroristas: Carix
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Carix
+
+Informações da Partida:
+Contra-Terroristas: Imperial
+Terroristas: Laner
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Informações da Partida:
+Contra-Terroristas: Buenas
+Terroristas: Trenal
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Informações da Partida:
+Contra-Terroristas: Bulper
+Terroristas: Nambor
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Informações da Partida:
+Contra-Terroristas: Xenao
+Terroristas: Carix
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Imperial
+Terroristas: Laner
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Laner
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Buenas
+Terroristas: Trenal
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Trenal
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Bulper
+Terroristas: Nambor
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Nambor
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Xenao
+Terroristas: Carix
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Carix
+Fase atual: 2
+
+Informações do Campeonato: 
+
+Informações da Partida:
+Contra-Terroristas: Furia
+Terroristas: Imperial
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Imperial
+
+Informações da Partida:
+Contra-Terroristas: Gerino
+Terroristas: Laner
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Laner
+
+Informações da Partida:
+Contra-Terroristas: Tylano
+Terroristas: Buenas
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Buenas
+
+Informações da Partida:
+Contra-Terroristas: Polinor
+Terroristas: Trenal
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Trenal
+
+Informações da Partida:
+Contra-Terroristas: Garen
+Terroristas: Bulper
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Bulper
+
+Informações da Partida:
+Contra-Terroristas: Mach
+Terroristas: Nambor
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Nambor
+
+Informações da Partida:
+Contra-Terroristas: Chars
+Terroristas: Xenao
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Xenao
+
+Informações da Partida:
+Contra-Terroristas: Zelper
+Terroristas: Carix
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Carix
+
+Informações da Partida:
+Contra-Terroristas: Imperial
+Terroristas: Laner
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Laner
+
+Informações da Partida:
+Contra-Terroristas: Buenas
+Terroristas: Trenal
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Trenal
+
+Informações da Partida:
+Contra-Terroristas: Bulper
+Terroristas: Nambor
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Nambor
+
+Informações da Partida:
+Contra-Terroristas: Xenao
+Terroristas: Carix
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Carix
+
+Informações da Partida:
+Contra-Terroristas: Imperial
+Terroristas: Laner
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Informações da Partida:
+Contra-Terroristas: Buenas
+Terroristas: Trenal
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Informações da Partida:
+Contra-Terroristas: Bulper
+Terroristas: Nambor
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Informações da Partida:
+Contra-Terroristas: Xenao
+Terroristas: Carix
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Informações da Partida:
+Contra-Terroristas: Laner
+Terroristas: Trenal
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Informações da Partida:
+Contra-Terroristas: Nambor
+Terroristas: Carix
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Imperial
+Terroristas: Laner
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Laner
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Buenas
+Terroristas: Trenal
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Trenal
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Bulper
+Terroristas: Nambor
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Nambor
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Xenao
+Terroristas: Carix
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Carix
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Laner
+Terroristas: Trenal
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Trenal
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Nambor
+Terroristas: Carix
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Carix
+Fase atual: 3
+
+Informações do Campeonato: 
+
+Informações da Partida:
+Contra-Terroristas: Furia
+Terroristas: Imperial
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Imperial
+
+Informações da Partida:
+Contra-Terroristas: Gerino
+Terroristas: Laner
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Laner
+
+Informações da Partida:
+Contra-Terroristas: Tylano
+Terroristas: Buenas
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Buenas
+
+Informações da Partida:
+Contra-Terroristas: Polinor
+Terroristas: Trenal
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Trenal
+
+Informações da Partida:
+Contra-Terroristas: Garen
+Terroristas: Bulper
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Bulper
+
+Informações da Partida:
+Contra-Terroristas: Mach
+Terroristas: Nambor
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Nambor
+
+Informações da Partida:
+Contra-Terroristas: Chars
+Terroristas: Xenao
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Xenao
+
+Informações da Partida:
+Contra-Terroristas: Zelper
+Terroristas: Carix
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Carix
+
+Informações da Partida:
+Contra-Terroristas: Imperial
+Terroristas: Laner
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Laner
+
+Informações da Partida:
+Contra-Terroristas: Buenas
+Terroristas: Trenal
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Trenal
+
+Informações da Partida:
+Contra-Terroristas: Bulper
+Terroristas: Nambor
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Nambor
+
+Informações da Partida:
+Contra-Terroristas: Xenao
+Terroristas: Carix
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Carix
+
+Informações da Partida:
+Contra-Terroristas: Imperial
+Terroristas: Laner
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Laner
+
+Informações da Partida:
+Contra-Terroristas: Buenas
+Terroristas: Trenal
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Trenal
+
+Informações da Partida:
+Contra-Terroristas: Bulper
+Terroristas: Nambor
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Nambor
+
+Informações da Partida:
+Contra-Terroristas: Xenao
+Terroristas: Carix
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Carix
+
+Informações da Partida:
+Contra-Terroristas: Laner
+Terroristas: Trenal
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Trenal
+
+Informações da Partida:
+Contra-Terroristas: Nambor
+Terroristas: Carix
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Carix
+
+Informações da Partida:
+Contra-Terroristas: Imperial
+Terroristas: Laner
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Informações da Partida:
+Contra-Terroristas: Buenas
+Terroristas: Trenal
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Informações da Partida:
+Contra-Terroristas: Bulper
+Terroristas: Nambor
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Informações da Partida:
+Contra-Terroristas: Xenao
+Terroristas: Carix
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Informações da Partida:
+Contra-Terroristas: Laner
+Terroristas: Trenal
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Informações da Partida:
+Contra-Terroristas: Nambor
+Terroristas: Carix
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Informações da Partida:
+Contra-Terroristas: Laner
+Terroristas: Trenal
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Informações da Partida:
+Contra-Terroristas: Nambor
+Terroristas: Carix
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Informações da Partida:
+Contra-Terroristas: Trenal
+Terroristas: Carix
+Placar: TR-0 | CT-0
+Rodada: 0
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Imperial
+Terroristas: Laner
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Laner
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Buenas
+Terroristas: Trenal
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Trenal
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Bulper
+Terroristas: Nambor
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Nambor
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Xenao
+Terroristas: Carix
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Carix
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Laner
+Terroristas: Trenal
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Trenal
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Nambor
+Terroristas: Carix
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Carix
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Laner
+Terroristas: Trenal
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Trenal
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Nambor
+Terroristas: Carix
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Carix
+
+Partida Encerrada!
+
+Informações da Partida:
+Contra-Terroristas: Trenal
+Terroristas: Carix
+Placar: TR-30 | CT-0
+Rodada: 30
+Ganhador: Carix
+Fase atual: 4
+Exception in thread "main" java.lang.IndexOutOfBoundsException: Index 27 out of bounds for length 27
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	at java.base/java.util.Objects.checkIndex(Objects.java:385)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at Campeonato.iniciaPartidas(Campeonato.java:86)
+	at Campeonato.atualizaCampeonato(Campeonato.java:124)
+	at Main.main(Main.java:55)
+
+Process finished with exit code 1
+Luccas de Almeida Azevedo Arruda - 114758
+Lucas Moreno - 114998
+Mateus Pianca - 114870
+Vital - 114787
+Tiago - 114494
+Eric Pereira - 115211

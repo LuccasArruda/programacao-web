@@ -1,0 +1,15 @@
+.bg-vermelho{
+    background-color: rgba(220, 53, 69, 1);
+    border-radius: 15px 0px 15px 0px;
+    box-shadow: 0px 0px 26px -6px rgba(0,0,0,0.75);
+}
+
+.bg-vermelho:hover{
+    background-color:rgb(180, 44, 57) ;
+    box-shadow: 0px 0px 26px 3px rgba(0,0,0,0.75);
+    cursor: pointer;
+}
+
+p{
+    margin: 0;
+}

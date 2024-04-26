@@ -1,0 +1,34 @@
+body{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-image: url(../img/background/escola.jpg);
+    background-size: cover;
+}
+
+#imagem-logo{
+    width: 30px;
+    position: absolute;
+}
+
+#imagem-logo img{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    object-fit: cover;
+}
+
+#imagem-background{
+    filter: blur(3px);
+}
+
+.fonte{
+    font-family: "Quicksand", sans-serif;
+    font-weight: lighter;
+    font-style: normal;
+}
+
+.fonte-titulo{
+    font-family: "Quicksand", sans-serif;
+    font-style: normal;
+}
